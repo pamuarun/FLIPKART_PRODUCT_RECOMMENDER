@@ -5,7 +5,6 @@
 ### Enterprise-Grade AI Recommendation System powered by RAG, Groq, Astra DB, Kubernetes, Prometheus & Grafana
 
 <img src="CODE/Architecture/Flipkart+product+recommender+Workflow.png" width="100%" alt="Flipkart Product Recommender Architecture"/>
-
 <br>
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
